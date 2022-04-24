@@ -1,2 +1,0 @@
-# myproject
-frustrated engineering student
